@@ -4,7 +4,10 @@ public class Main
 		
 		int man = 160;
 		
-		if (x > 160){
+		if (man > 160){
 		    System.out.println("you can enter ");
-	}
+	} else {
+System.out.println("you can not enter ");
+}
+} 
 }
